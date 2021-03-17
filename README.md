@@ -1,3 +1,13 @@
+
+
+# How to use this sample
+
+```
+$ git clone https://github.com/tanabe/apple-automator-sample.git
+$ cd apple-automator-sample
+$ open sample.workflow
+```
+
 # About Apple Automator
 
 * https://support.apple.com/guide/automator/welcome/mac
